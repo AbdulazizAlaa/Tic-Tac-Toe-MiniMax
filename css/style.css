@@ -18,19 +18,13 @@ body h3{
 }
 
 body {
-    overflow: hidden;
 }
 
 #content{
-    overflow-y: auto;
-    height: 755px;
     border-left: 5px solid;
     border-left-color: crimson;
     border-top-left-radius: 5px;
     border-bottom-left-radius: 5px;
-}
-
-#list{
 }
 
 .pin {
